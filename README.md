@@ -3,29 +3,29 @@ This project is a Movie Recommendation System built using Python that suggests m
 
 Features
 
-1)Recommends movies based on user input
-2)Uses content-based filtering
-3)Data preprocessing with Pandas & NumPy
-4)Similarity calculation using Scikit-learn
-5)Easy-to-use and customizable
+1) Recommends movies based on user input
+2) Uses content-based filtering
+3) Data preprocessing with Pandas & NumPy
+4) Similarity calculation using Scikit-learn
+5) Easy-to-use and customizable
 
 Technologies Used
 
---Python
---Pandas
---NumPy
---Scikit-learn
---Jupyter Notebook
+1) Python
+2) Pandas
+3) NumPy
+4) Scikit-learn
+5) Jupyter Notebook
 
 How It Works
 
---Load and clean the movie dataset.
---Convert text features into vectors.
---Calculate similarity between movies.
---Recommend top movies based on input. 
+1) Load and clean the movie dataset.
+2) Convert text features into vectors.
+3) Calculate similarity between movies.
+4) Recommend top movies based on input. 
 
 Future Improvements
 
---Add collaborative filtering
---Build a web app using Streamlit
---Improve accuracy with deep learning
+1) Add collaborative filtering
+2) Build a web app using Streamlit
+3) Improve accuracy with deep learning
