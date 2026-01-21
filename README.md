@@ -3,11 +3,11 @@ This project is a Movie Recommendation System built using Python that suggests m
 
 Features
 
---Recommends movies based on user input
---Uses content-based filtering
---Data preprocessing with Pandas & NumPy
---Similarity calculation using Scikit-learn
---Easy-to-use and customizable
+1)Recommends movies based on user input
+2)Uses content-based filtering
+3)Data preprocessing with Pandas & NumPy
+4)Similarity calculation using Scikit-learn
+5)Easy-to-use and customizable
 
 Technologies Used
 
